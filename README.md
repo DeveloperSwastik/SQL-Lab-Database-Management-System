@@ -26,7 +26,7 @@ _The SQL part of “SQL LAB” stands for “Structured Query Language”. SQL i
 _The SQL LAB Database Studio is very fast, reliable, scalable, and easy to use.
 If that is what you are looking for, you should give it a try. SQL LAB can run comfortably on a desktop or laptop in windows machine, alongside your other applications requiring little or no attentions._
 
-_For more full documentation visit: [Project Documentation Link](https://drive.google.com/file/d/1M8DmHGfpqoI6OPwU83w643PHTI3OTePy/view?usp=sharing)_
+_For full documentation visit: [Project Documentation Link](https://drive.google.com/file/d/1M8DmHGfpqoI6OPwU83w643PHTI3OTePy/view?usp=sharing)_
 
 
 ## Features of SQL Lab DBMS [🔝](#table-of-contents)
