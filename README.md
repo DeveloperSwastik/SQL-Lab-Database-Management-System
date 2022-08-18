@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [About SQL Lab Database Management System](#about-sql-lab-database-management-system-)
-- [Features of SQL Lab](#features-of-sql-lab-)
+- [Features of SQL Lab DBMS](#features-of-sql-lab-dbms-)
 - [Interface of SQL Lab DBMS](#interface-of-sql-lab-dbms-)
 
 
@@ -26,9 +26,17 @@ The SQL-LAB Database Studio is very fast, reliable, scalable, and easy to use.
 If that is what you are looking for, you should give it a try. SQL-LAB can run comfortably on a desktop or laptop in windows machine, alongside your other applications requiring little or no attention.s
 
 
-## FEATURES OF SQL LAB [🔝](#table-of-contents)
+## Features of SQL Lab DBMS [🔝](#table-of-contents)
 
 - Simple interface & easy to use for beginners.
 - Multiple users system.
 - Software consumes less memory And drive space.
 - Access to local file with .sqlite, .sqllab and .db extension.
+
+## Interface of SQL Lab DBMS [🔝](#table-of-contents)
+
+<p align="center">
+  <img alt="Interface 1" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/Interface%201.png" width='550px'>
+  <img alt="Interface 2" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/Interface%202.png" width='550px'>
+  <img alt="Interface 3" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/Interface%203.png" width='550px'>
+</p>
