@@ -2,7 +2,7 @@
   <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/SQL%20Lab%20Logo.png">
 </p>
 
-> _SQL Lab [Download Latest Version](https://drive.google.com/uc?id=1PPpxDsm1C1xeN57VQkRaEt0ApUgW6fCv&export=download)_
+> _SQL Lab [Download Latest Version](https://drive.google.com/uc?id=1e-fpe8ud67YBvrmtkOMBcEtS81-orOGX&export=download)_
 
 
 ## Table of Contents
