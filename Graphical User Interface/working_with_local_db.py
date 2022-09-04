@@ -147,7 +147,7 @@ def execute_query(query, path_of_db):
                     query_execution_end_time - query_execution_start_time
                 )
 
-                message = '✔ Query executed successfully'
+                message = 'Query executed successfully'
                 error_not_found = True
             else:
                 time_of_execution = 0.00
@@ -177,7 +177,7 @@ def execute_query(query, path_of_db):
                 query_execution_end_time - query_execution_start_time
             )
 
-            message = '✔ Query executed successfully'
+            message = 'Query executed successfully'
             error_not_found = True
 
         except Exception as error:
@@ -329,7 +329,7 @@ def execute_query(query, path_of_db):
             query_execution_end_time - query_execution_start_time
         )
 
-        message = '✔ Query executed successfully'
+        message = 'Query executed successfully'
         error_not_found = True
     elif (
         not error_not_found
@@ -362,7 +362,7 @@ def execute_query(query, path_of_db):
                 query_execution_end_time - query_execution_start_time
             )
 
-            message = '✔ Query executed successfully'
+            message = 'Query executed successfully'
             error_not_found = True
         except Exception as error:
             time_of_execution = 0.00
