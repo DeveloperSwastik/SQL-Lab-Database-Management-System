@@ -3592,9 +3592,18 @@ def connection_panel_window():
 
             executable_query = executable_query.strip()
 
-            output = wwsdb.execute_query(
-                executable_query, current_connection_details
-            )
+            if (
+                current_connection_details[5] != None
+                and
+                current_connection_details[6] != None
+            ):
+                output = wwsdb.execute_query(
+                    executable_query, current_connection_details
+                )
+            else:
+                output = wwldb.execute_query(
+                    executable_query, file_path
+                )
 
             list_of_outputs.append(output)
 
