@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/SQL%20Lab%20Logo.png">
+  <img alt="Logo Image" src="https://drive.google.com/uc?export=view&id=1_PSM3xvrJbEtejLXNntU6rjZfc6N90oL">
 </p>
 
 > _SQL Lab [Download Latest Version](https://drive.google.com/uc?id=1PPpxDsm1C1xeN57VQkRaEt0ApUgW6fCv&export=download)_
@@ -43,7 +43,7 @@ _For full documentation visit: [Project Documentation Link](https://drive.google
 ## Interface of SQL Lab DBMS [🔝](#table-of-contents)
 
 <p align="center">
-  <img alt="Interface 1" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/Interface%201.png" width='550px'>
-  <img alt="Interface 2" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/Interface%202.png" width='550px'>
-  <img alt="Interface 3" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/Interface%203.png" width='550px'>
+  <img alt="Interface 1" src="https://drive.google.com/uc?export=view&id=1w8rQxIToJb3QAiRA4e3b2I3EDwGzzFTT" width='550px'>
+  <img alt="Interface 2" src="https://drive.google.com/uc?export=view&id=1WQnEwXQSJuzjAVnWmbFMyMKqHjNhUkFK" width='550px'>
+  <img alt="Interface 3" src="https://drive.google.com/uc?export=view&id=1HhVNLkCfcJ0CO7_8Yn0OE-J4669_Hmsv" width='550px'>
 </p>
