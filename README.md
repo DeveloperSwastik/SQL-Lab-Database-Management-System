@@ -2,7 +2,7 @@
   <img alt="Logo Image" src="https://drive.google.com/uc?export=view&id=1_PSM3xvrJbEtejLXNntU6rjZfc6N90oL">
 </p>
 
-> _SQL Lab [Download Latest Version](https://drive.google.com/uc?id=111n9daMjac0_csI2g31ztMJhCUQs5GZ8&export=download)_
+> _SQL Lab [Download Latest Version](https://drive.google.com/uc?id=1HIQ1_HI73hAjxme_ObqX_q5lkvoIzkXl&export=download)_
 
 
 ## Table of Contents
